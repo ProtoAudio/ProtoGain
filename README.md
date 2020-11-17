@@ -1,2 +1,2 @@
 # ProtoGain
-A gain plugin belonging to the ProtoAudio first generation suite of plugins.
+A gain plugin belonging to the ProtoSuite One range of plugins.
